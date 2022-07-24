@@ -22,7 +22,7 @@ Para el backend puedo utilzar Django (framework de python) y Express.js (framewo
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=migueldev81&theme=white&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=migueldev81&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=migueldev81&theme=white&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
