@@ -1,7 +1,7 @@
 # 💫 Perfil
 Mi nombre es Miguel Cabezas y soy desarrollador web.
 Me enfoco en el desarrollo frontend utilizando React, siendo la libreria mas demandada fue la mejor opcion para iniciar en ella.
-Para el backend puedo utilzar Django (framework de python) y Express.js (framewrok de node.js).
+Para el backend puedo utilzar Django (framework de python) y Express.js (framework de node.js).
 
 
 ## 🌐 Social
